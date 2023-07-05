@@ -40,4 +40,4 @@ Installation
 ************
 
 DB Name: `utsobshop`
-After Create Database import sql file to server.
+After Create Database import `utsobshop.sql` file to server.
